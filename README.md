@@ -1,2 +1,2 @@
 # curd-express-api
-learn how express works an api server
+Learn and build a simple crud api using express.
